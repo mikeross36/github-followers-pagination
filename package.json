@@ -1,0 +1,22 @@
+{
+  "name": "github-followers-pagination",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.50.0"
+  }
+}
